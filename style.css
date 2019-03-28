@@ -1,5 +1,7 @@
-body{
-	background-color: black;
-	color: white;
+html{
+	margin:0;
+	padding:0;
+	background:url(../img/cookiedepaques.jpg) no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
 }
-<a href="assets/img/cookiechoco.jpg">
